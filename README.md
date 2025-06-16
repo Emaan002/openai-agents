@@ -1,2 +1,2 @@
 # openai-agents
-openi SDK agents
+openai SDK agents
